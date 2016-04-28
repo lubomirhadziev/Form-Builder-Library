@@ -22,21 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="INFO.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="INFO.txt" pinned="false" current-in-tab="true">
         <entry file="file:///Applications/MAMP/htdocs/Test/form-builder/INFO.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="161" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="161" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file:///Applications/MAMP/htdocs/Test/form-builder/FormBuilder/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.029620852">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.14334862">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,6 +69,7 @@
         <option value="/Applications/MAMP/htdocs/Test/job-project/FormBuilder/FormBuilder.php" />
         <option value="/Applications/MAMP/htdocs/Test/job-project/INFO.txt" />
         <option value="/Applications/MAMP/htdocs/Test/form-builder/FormBuilder/.gitignore" />
+        <option value="/Applications/MAMP/htdocs/Test/form-builder/INFO.txt" />
       </list>
     </option>
   </component>
@@ -159,6 +150,11 @@
     <property name="last_opened_file_path" value="/Applications/MAMP/htdocs/Test/job-project" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="/Applications/MAMP/htdocs/Test/form-builder" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -461,18 +457,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file:///Applications/MAMP/htdocs/Test/form-builder/INFO.txt">
+    <entry file="file:///Applications/MAMP/htdocs/Test/form-builder/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="161" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="161" />
+        <state vertical-scroll-proportion="0.029620852">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Applications/MAMP/htdocs/Test/form-builder/FormBuilder/.gitignore">
+    <entry file="file:///Applications/MAMP/htdocs/Test/form-builder/INFO.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029620852">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.14334862">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
